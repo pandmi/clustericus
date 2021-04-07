@@ -16,7 +16,7 @@ This program:
 5. Build the cumulative User Score index to identify High-, Mid- and Low- valuable users
 ![](user_score.PNG)
 6. Creates automatically CSV file for each group containing user-id from each group for upload into the DMP of the client choice
-![](recency_cluster.PNG)
+![](csvexport.PNG)
 7. Creates visualization of built clusters
 ![](recencyvsfrequency.PNG)
 
