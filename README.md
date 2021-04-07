@@ -11,8 +11,11 @@ This program:
 3. Calculates RFM metrics per user by User Id
 ![](RFM_description.PNG)
 4. Creates user cluster via K-means algorithm by R, F, and M metrics separately. 
+
 ![](elbow.PNG)
+
 ![](recency_cluster.PNG)
+
 5. Build the cumulative User Score index to identify High-, Mid- and Low- valuable users
 ![](user_score.PNG)
 6. Creates automatically CSV file for each group containing user-id from each group for upload into the DMP of the client choice
@@ -29,10 +32,10 @@ To make this program run:
 
 # output
 
-The result of script execution are three CSV files saved in the same folder as the notebook file:
+The result of script execution are three CSV files saved in the same folder as the notebook file.
 
-Also in the notebook, all outputs showing the process of the analysis and mid results with visualizations will be displayed. 
-For confidential reasons, most of the code output was blurred or removed.
+Also in the executed notebook willbe displayed code outputs showing the process of the analysis and mid results with visualizations. 
+For confidential reasons code outputs was removed from attached file.
 
 # results implementation
 
