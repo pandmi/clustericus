@@ -40,7 +40,7 @@ For confidential reasons code outputs was removed from attached file.
 # results implementation
 
 The results of the script were implemented already on a couple of e-commerce clients campaigns, their performance has validated this approach. 
-The prepared user clusters have 6x higher ROI as very granular targeted prospecting strategies (with contextual, audience, and whitelist segments), and 3x higher ROI compare with traditional Remarketing, where the pool consisted of the users contacted in the last 90 days and didn't convert yet. 
+The prepared user clusters showed 6x higher ROI as granular targeted prospecting strategies (with contextual, audience, and whitelist segments), and 3x higher ROI compare with traditional Remarketing, where the pool consisted of the users contacted in the last 90 days and didn't convert yet. 
 The main problem of implemented user clusters was their low scale, which can be solved via the creation of additional Look-a-Likes segments.
 
 # improvement to be made
