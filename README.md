@@ -6,7 +6,7 @@ Automated solution for creating user cluster for creating user retention and rem
 
 This program:
 
-1. Extracts event log data from T1 Qubole account (SQL template is attached)
+1. Extracts event log data from Qubole account (SQL template is attached)
 2. Transforms the local currency revenue data into EUR, cleans the data
 3. Calculates RFM metrics per user by User Id
 ![](RFM_description.PNG)
