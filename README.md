@@ -27,8 +27,8 @@ This program:
 
 To make this program run:
 
-- in the script **Cluster_Analysis_RFM_KM.ipynb** replace 'xxx' placeholders by your Qubole API and T1 API credentials in the beginning, adjust mail addresses at the end 
-- run the script, approx. execution time 45 mins, depends on the account size 
+- in the script **Cluster_Analysis_RFM_KM.ipynb** replace 'xxx' placeholders by your Qubole API credentials in the beginning, adjust mail addresses at the end 
+- run the script, approx. execution time 45 mins, depends on the log size 
 
 # output
 
